@@ -16,8 +16,7 @@ str(ResultsBioGeoBears)
 
 names(ResultsBioGeoBears)
 ```
-
-#You can explore the results for each taxa, for example, see the M0 results for Cebidae
+You can explore the results for each taxa, for example, see the M0 results for Cebidae
 
 ```{r ,message=FALSE}
 ResultsBioGeoBears$Cebidae$M0
