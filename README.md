@@ -1,8 +1,8 @@
 # Amazonia repository
 
 <p, align="center">
-<b>Biogeographic evidence supports the Old Amazon hypothesis for the formation of the Amazon fluvial system</b></br>
-</p>
+<b>Biogeographic evidence supports the Old Amazon hypothesis for the formation of the Amazon fluvial system</b>
+</p></br>
 
 
 ### Here you can find:
