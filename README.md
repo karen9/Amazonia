@@ -4,10 +4,10 @@
 
 <p align="center">
 <b>Biogeographic evidence supports the Old Amazon hypothesis for the formation of the Amazon fluvial system</b>
-<br>
+<br><br>
 </p>
-<br>
 ---
+
 __Here you can find:__
 
 1. [Occurrences](https://github.com/karen9/Amazonia/tree/master/data/Occurrences)
