@@ -1,8 +1,8 @@
 ### Here you can find:
 
 ## 1: [Occurrences](https://github.com/karen9/Amazonia/tree/master/data/Occurrences)
-A folder with six csv files. Each file has the occurrences for each taxon (format three columns: Species[CHAR], Latitude[REAL] and
-Longitude[REAL])
+A folder with six csv files. Each file has the occurrences for each taxon (format three columns: __Species__, __Latitude__ and
+__Longitude__)
 
 ## 2: [MrBayes](https://github.com/karen9/Amazonia/tree/master/data/MrBayes)
 A folder with a NEXUS file showing a molecular data set, aligned and the commands implemented in MrBayes
