@@ -1,5 +1,5 @@
 
-<b>Fossils used</b>
+##<b>Fossils used</b>
 
 Taxon | Fossil | Age 
 ------|--------|----
@@ -19,10 +19,9 @@ Taxon | Fossil | Age
 <span class="tab"> |<b>_Cebuella_</b></br> Marivaux et al., 2016 | Mayoan SALMA
 <b>_Rhinella_</b> |<b>Oldest fossil of Bufonidae</b></br> Baéz and Gasparini, 1979 | Late Paleocene
 <span class="tab"> |<b>Oldest fossil of _R. marina_</b></br> Estes and Wassersug, 1963; Sanchíz, 1998 | Middle Miocene
-<b>Stenodermatinae</b> |
-<span class="tab"> |
-<span class="tab"> |
-<span class="tab"> |
+<b>Stenodermatinae</b> |<b>_Cubanycteris silvai_</b></br> Czaplewski et al., 2003 | Quaternary
+<span class="tab"> |<b>_Phyllops vetus_</b></br> Teeling et al., 2005; Dávalos, 2007 | Quaternary
+<span class="tab"> |<b>_Palynephyllum antimaster_</b></br> | Middle Miocene
 <b>Cracidae</b> |
 <span class="tab"> |
 <span class="tab"> |
