@@ -1,4 +1,6 @@
-__Fossils used__
+<p align="center'>
+<b>Fossils used</b>
+</p>
 
 Taxon | Fossil | Age 
 ------|--------|----
