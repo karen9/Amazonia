@@ -1,4 +1,4 @@
-### GBIF DOI
+__GBIF DOI__
 
 Taxa | DOI
 -----|-----
