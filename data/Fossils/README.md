@@ -11,12 +11,20 @@ Taxon | Fossil | Age
 <span class="tab"> |<b>_Paradelphomys_</b></br> Patterson and Pascual, 1968 | Early Miocene</br> Colhuehuapian SALMA
 <span class="tab"> |<b>_Pampamys emmonsae_</b></br> Olivares, 2012 | Late Miocene</br> Chasicoan-Huayquerian SALMA
 <b>Cebidae</b> | <b>_Branisella boliviana_</b></br> Takai et al., 2000 | Deseadan SALMA
-<span class="tab"> |<b>_Cebupithecia sarmientoi_</b></br> Stirton, 1951 Middle Miocene
+<span class="tab"> |<b>_Cebupithecia sarmientoi_</b></br> Stirton, 1951 | Middle Miocene
 <span class="tab"> |<b>_Neosaimiri fieldsi_</b></br> Stirton, 1951 | Middle miocene
 <span class="tab"> |<b>_Stirtonia spp._</b></br> Hershkovitz, 1970 | Middle Miocene
 <span class="tab"> |<b>_Lagonimico conclucatus_</b></br> Kay, 1994 | Middle miocene 
 <span class="tab"> |<b>_Cebuella_</b></br> Marivaux et al., 2016 | Mayoan SALMA
-
-
-
-
+<b>_Rhinella_</b> |<b>Oldest fossil of Bufonidae</b></br> Baéz and Gasparini, 1979 | Late Paleocene
+<span class="tab"> |<b>Oldest fossil of _R. marina_</b></br> Estes and Wassersug, 1963; Sanchíz, 1998 | Middle Miocene
+<b>Stenodermatinae</b> |
+<span class="tab"> |
+<span class="tab"> |
+<span class="tab"> |
+<b>Cracidae</b> |
+<span class="tab"> |
+<span class="tab"> |
+<span class="tab"> |
+<span class="tab"> |
+<span class="tab"> |
