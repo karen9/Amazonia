@@ -22,10 +22,10 @@ Taxon | Fossil | Age
 <b>Stenodermatinae</b> |<b>_Cubanycteris silvai_</b></br> Czaplewski et al., 2003 | Quaternary
 <span class="tab"> |<b>_Phyllops vetus_</b></br> Teeling et al., 2005; Dávalos, 2007 | Quaternary
 <span class="tab"> |<b>_Palynephyllum antimaster_</b></br> | Middle Miocene
-<b>Cracidae</b> |
-<span class="tab"> |
-<span class="tab"> |
-<span class="tab"> |
-<span class="tab"> |
-<span class="tab"> |
+<b>Cracidae</b> |<b>_Gallinuloides wyomingensis_</b></br> Eastman, 1900; Dyke, 2003; Mayr and Weidig, 2004 | Early Eocene
+<span class="tab"> |<b>_Palaeortyx gallica_</b></br> Mayr et al., 2006 | Late Oligocene
+<span class="tab"> |<b>_Schaubortyx keltica_</b></br> Rodkorb, 1964 | Oligocene
+<span class="tab"> |<b>_Rhegminornis calobates_</b></br> Olson and Farrand, 1974 | Early Miocene
+<span class="tab"> |<b>_Callipepla shotwelli_</b></br> Holman, 1961 | Middle Pliocene
+
 
