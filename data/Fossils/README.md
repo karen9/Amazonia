@@ -1,4 +1,4 @@
-<p align="center'>
+<p align=center>
 <b>Fossils used</b>
 </p>
 
