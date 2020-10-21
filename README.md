@@ -14,9 +14,9 @@ __Here you can find:__
 
 1. [Occurrences](https://github.com/karen9/Amazonia/tree/master/data/Occurrences)
 A folder with six csv files. Each file has the occurrences for each taxon (format three columns: __Species__, __Latitude__ and
-__Longitude__)
+__Longitude__).
 1. [MrBayes](https://github.com/karen9/Amazonia/tree/master/data/MrBayes)
-The commands implemented in MrBayes
+The commands implemented in MrBayes.
 1. [GenBank](https://github.com/karen9/Amazonia/tree/master/data/GenBank)
 A folder with sic csv files. Each file has the gene access codes from GenBank for each species used in the phylogenetic analysis.
 1. [Dispersal Matrix](https://github.com/karen9/Amazonia/tree/master/data/Dispersal_Matrix)
