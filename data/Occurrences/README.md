@@ -1,7 +1,7 @@
 __Occurrences from GBIF__
 
-Taxa | DOI
------|-----
+Taxa | DOI | CSV
+-----|-----|-----
 _Melipona_ | https://doi.org/10.15468/dl.xmxbkx | [Melipona.csv](https://raw.githubusercontent.com/karen9/Amazonia/master/data/Occurrences/Melipona.csv)
 Echimyidae | https://doi.org/10.15468/dl.t6v9hn | [Echimyidae.csv](https://raw.githubusercontent.com/karen9/Amazonia/master/data/Occurrences/Echimyidae.csv)
 Cebidae | https://doi.org/10.15468/dl.qdgb4q  | [Cebidae.csv](https://raw.githubusercontent.com/karen9/Amazonia/master/data/Occurrences/Cebidae.csv)
