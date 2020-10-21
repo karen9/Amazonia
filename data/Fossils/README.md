@@ -1,5 +1,5 @@
 
-##<b>Fossils used</b>
+## <b>Fossils used</b>
 
 Taxon | Fossil | Age 
 ------|--------|----
