@@ -1,8 +1,8 @@
 <p align=center>
 <b>Fossils used</b>
 </p>
-<p align=center>
 
+<p align=center>
 Taxon | Fossil | Age 
 ------|--------|----
 <b>_Melipona_</b> | <b>_Melittosphex_</b> oldest stem bee fossil</br>Poinar and Danforth, 2006 | Early Cretaceous</br>Upper Albian
