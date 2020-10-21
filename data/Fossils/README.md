@@ -6,7 +6,12 @@ Taxon | Fossil | Age
 <span class="tab"> | <b>_Proplebeia_</b> dominicana</br>Iturralde-Vinent, 1996 | Miocene
 <span class="tab"> | <b>_Apis lithohermaea_</b></br> Engel, 2006 | Middle Miocene
 <span class="tab"> | <b>_Euglossa moronei_</b></br> Engel, 1999 | Miocene
-<b>_Echimyidae_</b> | <b>_Draconomys verai_</b></br> | Early Oligocene</br> pre Deseadan SALMA
+<b>Echimyidae</b> | <b>_Draconomys verai_</b></br> | Early Oligocene</br> pre Deseadan SALMA
+<span class="tab"> |<b>_Sallamys_</b></br> Kay et al., 1998 | Late oligocene</br>Deseadan
+<span class="tab"> |<b>_Paradelphomys_</b></br> Patterson and Pascual, 1968 | Early Miocene</br> Colhuehuapian SALMA
+<span class="tab"> |<b>_Pampamys emmonsae_</b></br> Olivares, 2012 | Late Miocene</br> Chasicoan-Huayquerian SALMA
+<b>Cebidae</b> | <b>_Branisella boliviana_</b></br> Takai et al., 2000 | Deseadan SALMA
+
 
 
 
