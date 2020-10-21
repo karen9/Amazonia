@@ -1,6 +1,7 @@
 <p align=center>
 <b>Fossils used</b>
 </p>
+<p align=center>
 
 Taxon | Fossil | Age 
 ------|--------|----
@@ -30,3 +31,4 @@ Taxon | Fossil | Age
 <span class="tab"> |
 <span class="tab"> |
 <span class="tab"> |
+</p>
