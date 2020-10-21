@@ -23,3 +23,5 @@ A folder with sic csv files. Each file has the gene access codes from GenBank fo
 A folder with five txt files. Each one is the Dispersal Matrix used in BioGeoBears.
 1. [BioGeoBears](https://github.com/karen9/Amazonia/tree/master/data/BioGeoBears)
 A folder with 1 .Rdata file. The file contain the results of BioGeoBears for each taxon. Please, read the README file.
+1. [Fossils](https://github.com/karen9/Amazonia/tree/master/data/Fossils)
+The list of the fossils used in the topology calibration.
