@@ -7,7 +7,7 @@
 
  |Files|Link|
  |-|----|
-|Cebidae RDS | [download]()
+|Cebidae RDS | [download](https://mega.nz/file/WFsBxKbS#VmQEKpOnTQDEPiitZ6LiA8I7OrxQFH5Trt1fpMwvfCI)
 |Cracidae RDS | [download]()
 |Echimyidae RDS | [download]()
 |_Melipona_ RDS | [download]()
