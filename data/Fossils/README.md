@@ -1,7 +1,7 @@
 
 ## <b>Fossils used</b>
 
-<p align=center>Taxon</p> | <p align=center>Fossil </p>| <p align=center>Age </p>
+Taxon | Fossil | Age
 ------|--------|----
 <b>_Melipona_</b> |<p align=center> <b>_Melittosphex burmensis_</b></br>(Poinar & Danforth, 2006)</p> | <p align=center>~ 99.6–93.5 Ma</br>Late Cretaceous</p>
 <span class="tab"> |<p align=center> <b>_Proplebeia dominicana_</b></br>(Wille & Chandler, 1964) </p>| <p align=center>~ 20.4–13.8 Ma</br>Early-Middle Miocene</p>
