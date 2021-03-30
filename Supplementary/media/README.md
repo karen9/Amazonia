@@ -2,4 +2,4 @@
 
 ## Cebidae
 
-<img src="https://github.com/karen9/Amazonia/blob/master/Supplementary/media/cebidae_GIF_1.gif" width="40" height="40" />
+<img src="https://github.com/karen9/Amazonia/blob/master/Supplementary/media/cebidae_GIF_1.gif" width="100" height="100" />
