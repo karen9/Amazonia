@@ -16,7 +16,7 @@ Taxon | Fossil | Age
 <span class="tab"> |<b>_Neosaimiri fieldsi_</b></br> (Stirton, 1951) | ~13.8–11.8 Ma </br> Middle Miocene
 <span class="tab"> |<b>_Stirtonia tatacoensis_</b></br> (Hershkovitz, 1970) | ~13.8–11.8 Ma </br> Middle Miocene
 <span class="tab"> |<b>_Lagonimico conclucatus_</b></br> (Kay, 1994) | ~13.8–12.6 Ma </br> Middle Miocene
-<span class="tab"> |<b>_Cebuella sp._</b></br> (Marivaux et al., 2016; Antoine et al., 2016) | ~11.8–10.6 Ma </br< Mayoan Miocene
+<span class="tab"> |<b>_Cebuella sp._</b></br> (Marivaux et al., 2016; Antoine et al., 2016) | </p align="center">~11.8–10.6 Ma </br> Mayoan Miocene</p>
 <b>_Rhinella_</b> |<b>Oldest fossil of Bufonidae</b></br> (Baéz & Gasparini, 1979) | ~57 Ma </br> Late Paleocene
 <span class="tab"> |<b>_Rhinella arenarum_</b></br> (Tambussi 1998, Peréz et al., 2014) | ~7.2–5.3 Ma </br> Late Miocene
 <b>Stenodermatinae</b> |<b>_Cubanycteris silvai_</b></br> (Mancina & García-Rivera, 2005) |  ~0.126–0.0117 Ma </br> Quaternary
