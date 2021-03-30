@@ -1,6 +1,8 @@
 
 ## <b>Fossils used</b>
 
+<p align=center>
+
 Taxon | Fossil | Age 
 ------|--------|----
 <b>_Melipona_</b> | <b>_Melittosphex burmensis_</b></br>(Poinar & Danforth, 2006) | <p align=center>~ 99.6–93.5 Ma</br>Late Cretaceous</p>
@@ -28,4 +30,4 @@ Taxon | Fossil | Age
 <span class="tab"> |<b>_Rhegminornis calobates_</b></br> (White, 1942; Wetmore, 1943) | <p align=center>~20.4–15.9 Ma</br>Early Miocene</p>
 <span class="tab"> |<b>_Lophortyx shotwelli_</b></br> (Shotwell, 1956; Brodkorb, 1964) | <p align=center>~10.3–4.9 Ma</br>Late Miocene</p>
 
-
+</p>
