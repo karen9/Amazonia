@@ -7,7 +7,7 @@ Taxon | Fossil | Age
 <span class="tab"> |<p align=center> <b>_Proplebeia dominicana_</b></br>(Wille & Chandler, 1964) </p>| <p align=center>~ 20.4–13.8 Ma</br>Early-Middle Miocene</p>
 <span class="tab"> |<p align=center> <b>_Apis lithohermaea_</b></br> (Engel, 2006) </p>| <p align=center>~ 15.9–13.8 Ma</br> Middle Miocene</p>
 <span class="tab"> |<p align=center> <b>_Euglossa moronei_</b></br> (Engel, 1999) </p>| <p align=center>~ 20.4–13.8 Ma</br>Early-Middle Miocene</p>
-<b>Echimyidae</b>< |<p align=center> <b>_Draconomys verai_</b></br>(Vucetich et al., 2010) </p>|<p align=center> ~ 33.9–28.1 Ma</br>Early Oligocene</p>
+<b>Echimyidae</b> |<p align=center> <b>_Draconomys verai_</b></br>(Vucetich et al., 2010) </p>|<p align=center> ~ 33.9–28.1 Ma</br>Early Oligocene</p>
 <span class="tab"> |<p align=center><b>_Sallamys woodi_</b></br> (Peréz et al., 2018)</p> |<p align=center> ~ 29–21 Ma</br>Late Oligocene</p>
 <span class="tab"> |<p align=center><b>_Paradelphomys fissus_</b></br> (Patterson & Pascual, 1968) </p>| <p align=center>~ 21–17.5 Ma</br> Eartly Miocene</p>
 <span class="tab"> |<p align=center><b>_Pampamys emmonsae_</b></br> (Verzi et al., 1995)  </p>| <p align=center>~ 9–6.8 Ma</br> Late Miocene</p>
