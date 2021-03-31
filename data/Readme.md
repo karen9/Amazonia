@@ -13,3 +13,4 @@ A folder with five txt files. Each one is the Dispersal Matrix used in BioGeoBea
 A folder with 1 .Rdata file. The file contain the results of BioGeoBears for each taxon. Please, read the README file.
 1. [Fossils](https://github.com/karen9/Amazonia/tree/master/data/Fossils)
 The list of the fossils used in the topology calibration.
+1. [RASE](https://github.com/karen9/Amazonia/tree/master/data/RASE) The R-scripts and RDS files used for the RASE analysis.
