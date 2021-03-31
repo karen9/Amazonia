@@ -27,3 +27,5 @@ A folder with 1 .Rdata file. The file contain the results of BioGeoBears for eac
 The list of the fossils used in the topology calibration.
 1. [Supplementary](https://github.com/karen9/Amazonia/tree/master/Supplementary)
 All the supplementary information (GIF, PDF and DOC files).
+1. [RASE](https://github.com/karen9/Amazonia/tree/master/data/RASE) The R-scripts and RDS files used for the RASE analysis.
+
